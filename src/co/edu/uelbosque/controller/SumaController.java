@@ -30,7 +30,6 @@ public class SumaController {
 		}
 		
 		out.setResult(out.getResultNum() + out.getResultLetter());
-		
 		return out;
 	}
 }
